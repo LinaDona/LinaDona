@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there!
+Currently a student, I'm interested in microcontroller programming, networking and cybersecurity.
 
 <!--
 **LinaDona/LinaDona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
