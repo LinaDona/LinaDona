@@ -1,5 +1,5 @@
 ### Hello there!
-Currently a student, I'm interested in microcontroller programming, networking and cybersecurity.
+Recently graduated with a computer engineering degree, I'm interested in microcontroller programming, networking and cybersecurity.
 
 <!--
 **LinaDona/LinaDona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
