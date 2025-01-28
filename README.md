@@ -1,5 +1,4 @@
-### Hello there!
-Recently graduated with a computer engineering degree, I'm interested in microcontroller programming, networking and cybersecurity.
+Simulation engineer for now, and I like cats.
 
 <!--
 **LinaDona/LinaDona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
