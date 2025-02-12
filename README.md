@@ -1,4 +1,4 @@
-Simulation engineer for now, and I like cats.
+Currently an embedded systems engineer. I like cats, the blue sky, and the green trees.
 
 <!--
 **LinaDona/LinaDona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
