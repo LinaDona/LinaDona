@@ -1,5 +1,4 @@
-Currently an embedded systems engineer. I like cats, the blue sky, and the green trees.
-
+Embedded software engineer, security and reverse engineering enthusiast. I like watching the sky and annoying orange cats.
 <!--
 **LinaDona/LinaDona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
